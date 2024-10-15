@@ -1,0 +1,14 @@
+simple-java-project/
+|-- src
+|   |-- main
+|       |-- java
+|           |-- com
+|               |-- calculator
+|                   |-- Calculator.java
+|-- pom.xml
+|-- src
+|   |-- test
+|       |-- java
+|           |-- com
+|               |-- calculator
+|                   |-- CalculatorTest.java
